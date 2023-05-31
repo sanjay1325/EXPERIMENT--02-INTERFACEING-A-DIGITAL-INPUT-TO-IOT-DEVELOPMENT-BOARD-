@@ -1,8 +1,8 @@
 # EXPERIMENT--02-INTERFACING-A-DIGITAL-INPUT-TO-IOT-DEVELOPMENT-BOARD-
  
 ```
-    Name : Jhagan B
-    RegNo : 212220040066
+    Name : Sanjay E
+    RegNo : 212220040143
     Sub : 19AM508
 ```
 
